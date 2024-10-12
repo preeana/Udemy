@@ -58,8 +58,8 @@ public class sampleCode {
 
 		}
 
-		driver.findElement(By.cssSelector("input[id*='SeniorCitizenDiscount']")).click();
-
+		driver.findElement(By.cssSelector("input[id*='friendsandfamily']")).click();
+		
 
 		driver.findElement(By.id("divpaxinfo")).click();
 
